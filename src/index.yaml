@@ -1,0 +1,5 @@
+ProjectTitle: rubber
+
+PageList:
+- file: page.html
+  ready: 50
